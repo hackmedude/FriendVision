@@ -11,3 +11,4 @@ This python script loads two variables from an external file called "project_pat
     192.168.1.100
 
 That's it, go ahead and run the script!
+I need more information
